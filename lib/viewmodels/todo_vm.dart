@@ -15,6 +15,8 @@ class TodoViewModel with ChangeNotifier {
     Todo t = Todo(name: _controller.text, status: false);
     _todoList.add(t);
 
+    _controller.clear();
+
     notifyListeners();
   }
 
