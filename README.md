@@ -1,17 +1,18 @@
 # provider_example
 
-A new Flutter project.
+Simple Todos app build with flutter. This app uses provider and change notifier architecture for state management. (MVVM)
 
-## Getting Started
+The used resources in the project:
 
-This project is a starting point for a Flutter application.
+- provider
+- get_it
 
-A few resources to get you started if this is your first Flutter project:
+App Review
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![To Do](https://github.com/hduru/provider_example/blob/main/assets/ToDoApp.png?raw=true)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# provider_example
+
+A few resources to state management:
+
+- [State Management Approaches](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options)
+- [Useful Flutter Simple State Management](https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple)
